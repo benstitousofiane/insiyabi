@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+    overflow: hidden;
+}
+
+@font-face {
+    font-family: SurahNames;
+    src: url("../public/fonts/surah-name-v2.ttf");
+}
